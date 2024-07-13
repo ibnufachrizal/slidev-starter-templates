@@ -1,4 +1,4 @@
-name: Publish presentation to Github pagew
+name: Publish presentation to Github pages
 on:
   push:
     branches: [main]
